@@ -18,7 +18,7 @@ class JalaliServiceProvider extends ServiceProvider {
    */
   public function boot()
   {
-    $this->package('miladr/jalali');
+    
   }
  
   /**
